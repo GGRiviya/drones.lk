@@ -6,4 +6,4 @@ A website made for drones.lk
 
 https://ggriviya.github.io/drones.lk
 
-Proudly Made by ***GGRiviya Inc.***
+Proudly Made by ***Riviya_X***
